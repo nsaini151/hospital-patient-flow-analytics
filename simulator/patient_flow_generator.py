@@ -62,4 +62,3 @@ if __name__ == "__main__":
         print(f"Sent to Event Hub: {event}")
         time.sleep(1)
 
-#example
